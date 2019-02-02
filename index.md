@@ -502,7 +502,7 @@ and our administrator may contact you if we need any extra information.</h4>
       <h4 id="editor-macosx">macOS</h4>
       <p>
         You can use your favorite text editor. If you do not have one, we recommend 
-        <a href="https://www.barebones.com/products/textwrangler/">Text Wrangler</a>.
+        <a href="https://www.sublimetext.com">Sublime Text</a>.
         
       </p>
     </div>
@@ -511,8 +511,11 @@ and our administrator may contact you if we need any extra information.</h4>
 
       <p>
         You can use your favorite text editor. If you do not have one, we recommend 
-        <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>.
+        <a href="https://www.sublimetext.com">Sublime Text</a>.
       </p>
+      <p>
+        For guided installation instructions, please follow this <a href="https://www.sublimetext.com/docs/3/linux_repositories.html">link</a> depending on the linux ditribution that you use. We recommend using stable version of the editor.
+      </p>  
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
